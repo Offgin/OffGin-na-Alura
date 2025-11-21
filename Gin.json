@@ -1,0 +1,227 @@
+[
+  {
+    "Nome": "Playstation",
+    "Ano": "1994",
+    "Empresa": "Sony",
+    "Link": "https://pt.wikipedia.org/wiki/PlayStation_(console)",
+    "Descrição": "O primeiro console da linha PlayStation, marcou a estreia da Sony na indústria de jogos e popularizou o uso de CDs para jogos."
+  },
+  {
+    "Nome": "Playstation 2",
+    "Ano": "2000",
+    "Empresa": "Sony",
+    "Link": "https://pt.wikipedia.org/wiki/PlayStation_2",
+    "Descrição": "O console mais vendido de todos os tempos, conhecido por sua vasta biblioteca de jogos e por ser um centro de entretenimento com leitor de DVD."
+  },
+  {
+    "Nome": "PlayStation 3",
+    "Ano": "2006",
+    "Empresa": "Sony",
+    "Link": "https://pt.wikipedia.org/wiki/PlayStation_3",
+    "Descrição": "Introduziu a mídia Blu-ray para jogos e filmes em alta definição, além de funcionalidades online robustas com a PlayStation Network."
+  },
+  {
+    "Nome": "Nintendo 64",
+    "Ano": "1996",
+    "Empresa": "Nintendo",
+    "Link": "https://pt.wikipedia.org/wiki/Nintendo_64",
+    "Descrição": "Famoso por popularizar os jogos 3D com seu controle inovador que incluía um stick analógico, e por clássicos como Super Mario 64."
+  },
+  {
+    "Nome": "Xbox",
+    "Ano": "2001",
+    "Empresa": "Microsoft",
+    "Link": "https://pt.wikipedia.org/wiki/Xbox",
+    "Descrição": "A entrada da Microsoft no mercado de consoles, destacou-se pelo seu poder de processamento e pelo serviço online Xbox Live."
+  },
+  {
+    "Nome": "Sega Genesis",
+    "Ano": "1988",
+    "Empresa": "Sega",
+    "Link": "https://pt.wikipedia.org/wiki/Mega_Drive",
+    "Descrição": "Conhecido como Mega Drive fora da América do Norte, foi um dos principais consoles da era 16-bit, rivalizando diretamente com o Super Nintendo."
+  },
+  {
+    "Ano": "2021",
+    "Empresa": "Nintendo",
+    "link": "https://www.nintendo.com/switch/",
+    "Nome": "Nintendo Switch OLED Model",
+    "Descrição": "Uma versão aprimorada do Nintendo Switch com uma tela OLED de 7 polegadas, cores mais vibrantes e maior armazenamento interno."
+  },
+  {
+    "Ano": "2020",
+    "Empresa": "Microsoft",
+    "link": "https://www.xbox.com/series-x",
+    "Nome": "Xbox Series X",
+    "Descrição": "O console mais poderoso da Microsoft, projetado para jogos em 4K, com tempos de carregamento rápidos graças ao seu SSD e alta performance."
+  },
+  {
+    "Ano": "2020",
+    "Empresa": "Sony",
+    "link": "https://www.playstation.com/ps5/",
+    "Nome": "PlayStation 5",
+    "Descrição": "O console de nova geração da Sony, com um SSD ultrarrápido, controle DualSense com feedback tátil e áudio 3D imersivo."
+  },
+  {
+    "Ano": "2022",
+    "Empresa": "Valve",
+    "link": "https://www.steamdeck.com/",
+    "Nome": "Steam Deck",
+    "Descrição": "Um PC gamer portátil desenvolvido pela Valve, que permite aos jogadores acessarem sua biblioteca de jogos da Steam em qualquer lugar."
+  },
+  {
+    "Ano": "2011",
+    "Empresa": "Sony",
+    "link": "https://en.wikipedia.org/wiki/PlayStation_Vita",
+    "Nome": "PlayStation Vita",
+    "Descrição": "Console portátil da Sony com tela OLED sensível ao toque, dois sticks analógicos e capacidades gráficas impressionantes para a época."
+  },
+  {
+    "Ano": "2015",
+    "Empresa": "Nintendo",
+    "link": "https://en.wikipedia.org/wiki/New_Nintendo_3DS",
+    "Nome": "New Nintendo 3DS XL",
+    "Descrição": "Uma versão atualizada do Nintendo 3DS com processador mais rápido, um segundo analógico (C-Stick) e tecnologia 3D super-estável."
+  },
+  {
+    "Ano": "2012",
+    "Empresa": "Nintendo",
+    "link": "https://www.nintendo.com/wiiu/",
+    "Nome": "Wii U",
+    "Descrição": "Sucessor do Wii, notável pelo seu controle GamePad com tela sensível ao toque, permitindo jogabilidade em duas telas."
+  },
+  {
+    "Ano": "2017",
+    "Empresa": "Microsoft",
+    "link": "https://www.xbox.com/",
+    "Nome": "Xbox One X",
+    "Descrição": "Uma versão mais potente do Xbox One, promovido como o 'console mais poderoso do mundo' em seu lançamento, focado em jogos 4K nativos."
+  },
+  {
+    "Ano": "2003",
+    "Empresa": "Nintendo",
+    "link": "https://en.wikipedia.org/wiki/Game_Boy_Advance_SP",
+    "Nome": "Game Boy Advance SP",
+    "Descrição": "Uma versão redesenhada do Game Boy Advance com um design dobrável e, pela primeira vez em um portátil da Nintendo, uma tela com iluminação."
+  },
+  {
+    "Ano": "2019",
+    "Empresa": "Nintendo",
+    "link": "https://www.nintendo.com/switch-lite/",
+    "Nome": "Nintendo Switch Lite",
+    "Descrição": "Uma versão exclusivamente portátil do Nintendo Switch, mais leve e compacta, ideal para jogar em trânsito."
+  },
+  {
+    "Ano": "2004",
+    "Empresa": "Sony",
+    "link": "https://en.wikipedia.org/wiki/PlayStation_Portable",
+    "Nome": "PlayStation Portable (PSP)",
+    "Descrição": "O primeiro console portátil da Sony, que se destacou pela sua tela widescreen, capacidades multimídia e jogos com qualidade de console de mesa."
+  },
+  {
+    "Ano": "2016",
+    "Empresa": "Sony",
+    "link": "https://www.playstation.com/",
+    "Nome": "PlayStation 4 Pro",
+    "Descrição": "Uma versão aprimorada do PlayStation 4, oferecendo maior poder de processamento para suportar jogos em resolução 4K e melhor performance."
+  },
+  {
+    "Ano": "2020",
+    "Empresa": "Microsoft",
+    "link": "https://www.xbox.com/series-s",
+    "Nome": "Xbox Series S",
+    "Descrição": "O menor Xbox já feito, um console de nova geração totalmente digital, projetado para jogos em 1440p com tempos de carregamento rápidos."
+  },
+  {
+    "Ano": "2001",
+    "Empresa": "Nintendo",
+    "link": "https://en.wikipedia.org/wiki/Nintendo_GameCube",
+    "Nome": "GameCube",
+    "Descrição": "Console da Nintendo com um design cúbico distinto, conhecido por seus jogos exclusivos e o uso de mini-DVDs como mídia."
+  },
+  {
+    "Ano": "2017",
+    "Empresa": "Nintendo",
+    "link": "https://www.nintendo.com/",
+    "Nome": "Super Nintendo Classic Edition",
+    "Descrição": "O Super Nintendo Classic Edition é um mini-console que imita o visual do famoso console 16-bit da Nintendo. Lançado em 29 de setembro de 2017, ele vem com 21 títulos pré-instalados, incluindo clássicos como Super Mario World e The Legend of Zelda: A Link to the Past."
+  },
+  {
+    "Ano": "2021",
+    "Empresa": "Analogue",
+    "link": "https://www.analogue.co/pocket",
+    "Nome": "Analogue Pocket",
+    "Descrição": "Um console portátil moderno projetado para jogar cartuchos originais de Game Boy, Game Boy Color e Game Boy Advance com alta fidelidade."
+  },
+  {
+    "Ano": "2021",
+    "Empresa": "Atari",
+    "link": "https://atarivcs.com/",
+    "Nome": "Atari VCS",
+    "Descrição": "Um console moderno da Atari que combina jogos clássicos e novos, além de funcionar como um PC, permitindo streaming e outras aplicações."
+  },
+  {
+    "Ano": "2016",
+    "Empresa": "Nintendo",
+    "link": "https://www.nintendo.com/",
+    "Nome": "Nintendo Entertainment System: Classic Edition",
+    "Descrição": "Uma recriação em miniatura do clássico NES, pré-carregado com 30 jogos icônicos da era 8-bit, como Super Mario Bros. e The Legend of Zelda."
+  },
+  {
+    "Ano": "2006",
+    "Empresa": "Nintendo",
+    "link": "https://en.wikipedia.org/wiki/Wii",
+    "Nome": "Wii",
+    "Descrição": "Revolucionou a indústria com seus controles de movimento (Wii Remote), atraindo um público casual e tornando-se um fenômeno cultural."
+  },
+  {
+    "Ano": "2018",
+    "Empresa": "SNK",
+    "link": "https://www.snk-corp.co.jp/",
+    "Nome": "Neo Geo Mini",
+    "Descrição": "Um mini-arcade que celebra o legado do Neo Geo, vindo com 40 jogos clássicos da SNK e uma tela própria para jogar em qualquer lugar."
+  },
+  {
+    "Ano": "1994",
+    "Empresa": "Sega",
+    "link": "https://en.wikipedia.org/wiki/Sega_Saturn",
+    "Nome": "Sega Saturn",
+    "Descrição": "Console de 32-bit da Sega, conhecido por sua arquitetura de processador duplo e por excelentes conversões de jogos de arcade."
+  },
+  {
+    "Ano": "2019",
+    "Empresa": "Sega",
+    "link": "https://en.wikipedia.org/wiki/Sega_Genesis_Mini",
+    "Nome": "Sega Genesis Mini",
+    "Descrição": "Uma versão em miniatura do Sega Genesis, pré-carregada com mais de 40 jogos clássicos, celebrando o legado do console de 16-bit."
+  },
+  {
+    "Ano": "2020",
+    "Empresa": "Konami",
+    "link": "https://www.konami.com/games/turbografx16_mini/",
+    "Nome": "TurboGrafx-16 Mini",
+    "Descrição": "Um mini-console da Konami que recria o TurboGrafx-16, incluindo uma seleção de jogos clássicos do sistema original."
+  },
+  {
+    "Ano": "2020",
+    "Empresa": "Meta",
+    "link": "https://www.meta.com/quest/",
+    "Nome": "Oculus Quest 2",
+    "Descrição": "Um headset de realidade virtual autônomo (não precisa de PC) que oferece uma experiência imersiva com seis graus de liberdade."
+  },
+  {
+    "Ano": "2022",
+    "Empresa": "Blaze Entertainment",
+    "link": "https://evercade.co.uk/",
+    "Nome": "Evercade EXP",
+    "Descrição": "Um console portátil focado em jogos retrô, que utiliza cartuchos com coleções de jogos licenciados de diversas publicadoras clássicas."
+  },
+  {
+    "Ano": "1998",
+    "Empresa": "Sega",
+    "link": "https://pt.wikipedia.org/wiki/Dreamcast",
+    "Nome": "Dreamcast",
+    "Descrição": "primeiro da sexta geração de consoles de videogame e, embora sua vida útil tenha sido curta, é lembrado por ser inovador e à frente de seu tempo, especialmente por ser o primeiro console a incluir um modem para acesso à internet e jogos online."
+}
+  
+]

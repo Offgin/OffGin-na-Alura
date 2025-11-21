@@ -1,0 +1,69 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap');
+body{
+    background-color: rgb(250, 250, 250);
+    font-family: "Cardo", serif;
+    color: #005ed8;
+    border-color: #005ed8;
+}
+
+.header {
+    background-color: #005ed8;
+    padding: 20px;
+    text-align: center;
+}
+
+.header h1 {
+    
+    color: rgb(255, 255, 255);
+    margin: 03;
+    border: #181818;
+    border-radius: 50%;
+    border-color: #181818;
+
+}
+
+.search-container {
+    margin-top: 20px;
+}
+
+.search-container input {
+    padding: 8px;
+    width: 300px;
+    border: color-mix(in srgb, color percentage, color percentage);
+    border-radius: 4px;
+}
+
+.search-container button {
+    padding: 10px 15px;
+    border: none;
+    background-color: #005ed8;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.footer {
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    bottom: auto;
+    width: auto;
+}
+
+.main {
+
+    color: rgb(0, 0, 0);
+}
+
+article {
+  background-color: #f9f9f9; /* Cor de fundo */
+  color: #181818; /* Cor do texto */
+    font-family: "Cardo", serif;
+  padding: 20px; /* Espaçamento interno */
+  margin: 10px 0; /* Espaçamento externo */
+  border: 1px solid #005ed8 ; /* Borda */
+  border-radius: 5px; /* Bordas arredondadas */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Sombra */
+}
